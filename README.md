@@ -50,6 +50,6 @@ An Automation Script which does the following tasks
 
 ## Sample Screenshot
 
-![Mail_Report](./Samples/Mail_Report_Sampl.png)
+![Mail_Report](./Samples/Mail_Report_Sample.png)
 
 ##
