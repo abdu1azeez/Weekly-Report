@@ -13,7 +13,7 @@ An Automation Script which does the following tasks
 ## How to configure and install
 
 - Download and extract files from Github.
-- Open Terminal and Navigates to Daily-Tracker/configure directory.
+- Open Terminal and Navigates to Weekly-Report/configure directory.
 - Run the following commands.
   >  chmod 755 setup.py 
   >
